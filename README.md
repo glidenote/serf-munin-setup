@@ -1,4 +1,4 @@
-# Serf-munin
+# Serf-munin-setup
 
 Serfを利用して、自動で監視対象のmunin-nodeを追加/削除スクリプト
 
